@@ -25,11 +25,11 @@ Atualmente, estou trabalhando em alguns projetos pessoais para consolidar meus c
 
 ## 🌟 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantossh&layout=compact)
 
 ## 📊 Mapa de Commits
 
-[![Mapa de Commits](https://activity-graph.herokuapp.com/graph?username=seu-username)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![stats_perfil](https://github-readme-stats.vercel.app/api?username=lucassantossh&show_icons=true&theme=radical)
 
 ## 🌍 Interesses
 
@@ -39,7 +39,6 @@ Além da programação, adoro café, astronomia e ouvir músicas dos anos 90 enq
 
 Se você estiver interessado em colaborar em projetos ou apenas trocar ideias, sinta-se à vontade para me enviar uma mensagem ou me seguir nas redes sociais:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Twitter](https://twitter.com/seu-twitter)
+- [LinkedIn](https://www.linkedin.com/in/lucas-santos-developer)
 
 Vamos construir algo incrível juntos! ✨
